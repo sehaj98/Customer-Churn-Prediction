@@ -164,6 +164,4 @@ These results reflect the current evaluation run. Re-run the evaluation script t
 
 This project is for educational and portfolio purposes. Predictions should not be treated as definitive assessments of individual customers.
 
-## Author
 
-Add your name and links to your GitHub and LinkedIn profiles here.
